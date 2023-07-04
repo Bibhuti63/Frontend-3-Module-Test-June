@@ -1,0 +1,23 @@
+body{
+    margin: 50px;
+    /* font-size: 34px; */
+    /* font-family: Inter;
+    font-style: normal; */
+}
+
+h1 {
+    display: inline;
+}
+
+.btn-container {
+    margin-top: 20px;
+}
+
+#get-data-btn {
+    background-color: black;
+    color: white;
+    padding: 10px 50px;
+    border-radius: 10px;
+    border: 2px solid black;
+    font-size: x-large;
+}
